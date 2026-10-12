@@ -1,7 +1,7 @@
 # Hi, I'm Maicol Giordano 
 
 Economics and Data Science graduate with an interest in financial risk, 
-econometrics, credit risk and quantitative analysis. Incoming Master’s student in Actuarial Sciences, starting in September 2026.
+econometrics, credit risk and quantitative analysis.MSc’s student in Actuarial Sciences at Università Cattolica del Sacro Cuore.
 
 I use Python and R to develop applied projects involving financial data, 
 machine learning and statistical modelling.
